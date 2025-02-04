@@ -1,9 +1,9 @@
 {
-    "name": "BELTAH-MD Pairing",
-    "description": "BELTAH-MD WA bot, Created by Beltah KE",
-    "logo": "https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg",
+    "name": "shadow-MD Pairing",
+    "description": "shadow-MD WA bot, Created by Beltah KE",
+    "logo": "https://files.catbox.moe/nn3szf.jpg",
     "repository": "https://github.com/Beltahmd/Beltah-Sessions",
-    "keywords": ["LegacyMd"],
+    "keywords": ["shadow Md"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
