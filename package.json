@@ -1,14 +1,14 @@
 {
-    "description": "keith-sessions",
-    "main": "./keithkeizzah.js",
+    "description": "shadow-spark-sessions",
+    "main": "./shadow-spark.js",
   "engines" : { 
     "npm" : ">=9.7.2",
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "node keithkeizzah.js"
+    "start": "node shadow-spark.js"
   },
-  "author": "keith Tech",
+  "author": "shadow Tech",
   "license": "GPL-3.0 license",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.5.0",
