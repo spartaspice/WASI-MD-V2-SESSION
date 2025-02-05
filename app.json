@@ -1,9 +1,9 @@
 {
-    "name": "shadow-MD Pairing",
-    "description": "shadow-MD WA bot, Created by Beltah KE",
-    "logo": "https://files.catbox.moe/nn3szf.jpg",
+    "name": "shadow-SPARK-MD Pairing",
+    "description": "shadow-SPARK-MD WA bot, Created by SHADOW KE",
+    "logo": " https://files.catbox.moe/nn3szf.jpg",
     "repository": "https://github.com/Beltahmd/Beltah-Sessions",
-    "keywords": ["shadow Md"],
+    "keywords": ["shadow-Spark-Md"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
