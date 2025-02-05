@@ -62,30 +62,30 @@ router.get('/', async (req, res) => {
 *By _shadowsmr⚪_*
 ______________________________
 ╔════◇
-║『 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 SHADOW 𝐌𝐃 』
+║『 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 SHADOW-SPARK-𝐌𝐃🙄』
 ║ You've Completed the First Step
 ║ to Deploy a Whatsapp Bot.
 ╚══════════════╝
 ╔═════◇
 ║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❍ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _youtube.com/@shadowmd_
+║❍ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _youtube.com/@shadow-spark-md_
 ║❍ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/254742215053_
-║❍ 𝐑𝐞𝐩𝐨: _https://github.com/spartaspice/shadow-md.git_
+║❍ 𝐑𝐞𝐩𝐨: _https://github.com/spartaspice/shadow-spark
 ║❍ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/FtDLI1gm09nIpxGHhLkk74_
 ║❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://chat.whatsapp.com/FtDLI1gm09nIpxGHhLkk74_
 ║❍ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/pussiehacke_
 ║ ☬ ☬ ☬ ☬
 ╚══════════════╝ 
- 𒂀 SHADOW 𝐌𝐃
+ 𒂀 SHADOW-SPARK-𝐌𝐃😁😁
 ______________________________
 
 Don't Forget To Give Star⭐ To My Repo`
 
- await Pair_Code_By_Brasho_Kish.sendMessage(Pair_Code_By_Brasho_Kish.user.id,{text:LEGACY_MD_TEXT},{quoted:session})
+ await Pair_Code_By_Samara_Shadow.sendMessage(Pair_Code_By_shadow_SMR.user.id,{text:LEGACY_MD_TEXT},{quoted:session})
  
 
         await delay(100);
-        await Pair_Code_By_Brasho_Kish.ws.close();
+        await Pair_Code_By_shadow_SMR.ws.close();
         return await removeFile('./temp/'+id);
             } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10000);
